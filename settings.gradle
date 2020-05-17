@@ -1,0 +1,2 @@
+rootProject.name='RotemApplication'
+include ':app'
